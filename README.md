@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Cesar Santos 👋
 
-<!--
-**cesarsantos23/cesarsantos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Science Engineering Student @ ITESO | Industrial Logistics & Data Systems
 
-Here are some ideas to get you started:
+I am a Data Science student at **ITESO** passionate about bridging the gap between digital intelligence and physical infrastructure. I focus on creating data-driven architectures that optimize industrial environments through advanced analytics and structural modeling.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Areas of Focus
+* **Data Architecture:** Relational (SQL) & Non-Relational (NoSQL) databases.
+* **Data-Driven Decision Making:** Statistical modeling and business intelligence.
+* **Physical Storage Systems:** Industrial logistics, racking optimization, and warehouse flow.
+
+### 🌱 Currently Learning
+* **Physical Storage Systems:** Industrial logistics, racking optimization, and warehouse flow.
+* **Advanced Machine Learning:** Specialized models like DistilBERT and CNNs.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+
