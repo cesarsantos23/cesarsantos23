@@ -25,3 +25,8 @@ I am a Data Science student at **ITESO** passionate about bridging the gap betwe
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
+### 🔗 Connect with me
+* **Professional Profile:** [César Santos | LinkedIn](https://www.linkedin.com/in/cesarsantos/)
+* **Industrial Logistics Portfolio (Exclusive Content):** [onlyfans.com/cesar-santos-oficial](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 🤫
