@@ -2,7 +2,7 @@
 
 ## Data Science Engineering Student @ ITESO | Industrial Logistics & Data Systems
 
-I am a Data Science student at **ITESO** passionate about bridging the gap between digital intelligence and physical infrastructure. I focus on creating data-driven architectures that optimize industrial environments through advanced analytics and structural modeling.
+#I am a Data Science student at **ITESO** passionate about bridging the gap between digital intelligence and physical infrastructure. I focus on creating data-driven architectures that optimize industrial environments through advanced #analytics and structural modeling.
 ---
 
 ### 🔍 Areas of Focus
