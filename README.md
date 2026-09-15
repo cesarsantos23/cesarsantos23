@@ -29,4 +29,5 @@ I am a Data Science student at **ITESO** passionate about bridging the gap betwe
 
 ### 🔗 Connect with me
 * **Professional Profile:** [César Santos | LinkedIn](https://www.linkedin.com/in/cesarsantos/)
-* **Industrial Logistics Portfolio (Exclusive Content):** [onlyfans.com/cesar-santos-oficial](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 🤫
+
+
